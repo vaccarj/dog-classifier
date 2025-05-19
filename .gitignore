@@ -2,6 +2,7 @@ dataset/*
 photos/toast/*
 photos/duncan/*
 *.pth
+.DS_Store
 
 !photos/toast/540DD083-D145-43ED-BBA0-DE0FF18BFD5E_4_5005_c.jpeg
 !photos/duncan/D20859CC-73F2-4BE7-8D33-1015CC4EC3DF_4_5005_c.jpeg
