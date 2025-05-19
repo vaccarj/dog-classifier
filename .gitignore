@@ -1,5 +1,6 @@
-dataset/
-photos/
+dataset/*
+photos/toast/*
+photos/duncan/*
 *.pth
 
 !photos/toast/540DD083-D145-43ED-BBA0-DE0FF18BFD5E_4_5005_c.jpeg
